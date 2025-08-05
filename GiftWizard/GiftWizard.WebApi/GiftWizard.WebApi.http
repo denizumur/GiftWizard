@@ -1,0 +1,6 @@
+@GiftWizard.WebApi_HostAddress = http://localhost:5013
+
+GET {{GiftWizard.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

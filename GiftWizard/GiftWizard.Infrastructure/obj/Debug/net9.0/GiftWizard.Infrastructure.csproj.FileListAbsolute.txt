@@ -1,0 +1,17 @@
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\GiftWizard.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\GiftWizard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\GiftWizard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\GiftWizard.Infrastructure.AssemblyInfo.cs
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\GiftWizard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\bin\Debug\net9.0\GiftWizard.Infrastructure.deps.json
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\bin\Debug\net9.0\GiftWizard.Infrastructure.dll
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\bin\Debug\net9.0\GiftWizard.Infrastructure.pdb
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\bin\Debug\net9.0\GiftWizard.Application.dll
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\bin\Debug\net9.0\GiftWizard.Domain.dll
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\bin\Debug\net9.0\GiftWizard.Application.pdb
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\bin\Debug\net9.0\GiftWizard.Domain.pdb
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\GiftWiza.996C5157.Up2Date
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\GiftWizard.Infrastructure.dll
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\refint\GiftWizard.Infrastructure.dll
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\GiftWizard.Infrastructure.pdb
+C:\Users\deniz\GiftWizard\GiftWizard.Infrastructure\obj\Debug\net9.0\ref\GiftWizard.Infrastructure.dll
