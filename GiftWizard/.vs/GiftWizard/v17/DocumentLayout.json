@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C70D8DF-77C0-4A60-B29A-192E47FA7802}|GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.infrastructure\\giftwizard.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C70D8DF-77C0-4A60-B29A-192E47FA7802}|GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj|solutionrelative:giftwizard.infrastructure\\giftwizard.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAA60168-F425-40E9-A79C-F74F8133F50E}|GiftWizard.Application\\GiftWizard.Application.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.application\\features\\giftfinder\\dtos\\giftsuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAA60168-F425-40E9-A79C-F74F8133F50E}|GiftWizard.Application\\GiftWizard.Application.csproj|solutionrelative:giftwizard.application\\features\\giftfinder\\dtos\\giftsuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,10 +42,6 @@
       "RelativeMoniker": "D:0:0:{A1DB4CC4-027F-4E82-B466-39770A07BB2C}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|solutionrelative:giftwizard.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C70D8DF-77C0-4A60-B29A-192E47FA7802}|GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.infrastructure\\giftwizard.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8C70D8DF-77C0-4A60-B29A-192E47FA7802}|GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj|solutionrelative:giftwizard.infrastructure\\giftwizard.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FAA60168-F425-40E9-A79C-F74F8133F50E}|GiftWizard.Application\\GiftWizard.Application.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.application\\abstractions\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAA60168-F425-40E9-A79C-F74F8133F50E}|GiftWizard.Application\\GiftWizard.Application.csproj|solutionrelative:giftwizard.application\\abstractions\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,37 +73,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GiftWizard.WebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\GiftWizard.WebApi.csproj",
-              "RelativeDocumentMoniker": "GiftWizard.WebApi\\GiftWizard.WebApi.csproj",
-              "ToolTip": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\GiftWizard.WebApi.csproj",
-              "RelativeToolTip": "GiftWizard.WebApi\\GiftWizard.WebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T12:08:59.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GiftProfile.cs",
-              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Domain\\Entities\\GiftProfile.cs",
-              "RelativeDocumentMoniker": "GiftWizard.Domain\\Entities\\GiftProfile.cs",
-              "ToolTip": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Domain\\Entities\\GiftProfile.cs",
-              "RelativeToolTip": "GiftWizard.Domain\\Entities\\GiftProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:07:08.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "GiftProfileDto.cs",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Application\\Features\\GiftFinder\\Dtos\\GiftProfileDto.cs",
               "RelativeDocumentMoniker": "GiftWizard.Application\\Features\\GiftFinder\\Dtos\\GiftProfileDto.cs",
@@ -111,12 +85,11 @@
               "RelativeToolTip": "GiftWizard.Application\\Features\\GiftFinder\\Dtos\\GiftProfileDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:11:18.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:11:18.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GiftSuggestionDto.cs",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Application\\Features\\GiftFinder\\Dtos\\GiftSuggestionDto.cs",
               "RelativeDocumentMoniker": "GiftWizard.Application\\Features\\GiftFinder\\Dtos\\GiftSuggestionDto.cs",
@@ -129,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "GiftWizard.WebApi\\wwwroot\\index.html",
@@ -141,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -153,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GeminiService.cs",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Infrastructure\\Services\\GeminiService.cs",
               "RelativeDocumentMoniker": "GiftWizard.Infrastructure\\Services\\GeminiService.cs",
@@ -165,7 +138,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "GiftWizard.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj",
+              "RelativeToolTip": "GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T16:28:52.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GiftProfile.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Domain\\Entities\\GiftProfile.cs",
+              "RelativeDocumentMoniker": "GiftWizard.Domain\\Entities\\GiftProfile.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Domain\\Entities\\GiftProfile.cs",
+              "RelativeToolTip": "GiftWizard.Domain\\Entities\\GiftProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:07:08.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiftWizard.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\GiftWizard.WebApi.csproj",
+              "RelativeDocumentMoniker": "GiftWizard.WebApi\\GiftWizard.WebApi.csproj",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\GiftWizard.WebApi.csproj",
+              "RelativeToolTip": "GiftWizard.WebApi\\GiftWizard.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T12:08:59.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "GiftFinderService.cs",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Application\\Features\\GiftFinder\\Services\\GiftFinderService.cs",
               "RelativeDocumentMoniker": "GiftWizard.Application\\Features\\GiftFinder\\Services\\GiftFinderService.cs",
@@ -177,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "GiftWizard.WebApi\\Program.cs",
@@ -186,19 +196,6 @@
               "ViewState": "AgIAABYAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T12:37:43.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GiftWizard.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj",
-              "RelativeToolTip": "GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T16:28:52.095Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -222,8 +219,7 @@
               "RelativeToolTip": "GiftWizard.Application\\GiftWizard.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T12:07:41.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:07:41.492Z"
             },
             {
               "$type": "Document",
@@ -271,8 +267,7 @@
               "RelativeToolTip": "GiftWizard.Domain\\GiftWizard.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T12:06:47.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:06:47.338Z"
             },
             {
               "$type": "Bookmark",
