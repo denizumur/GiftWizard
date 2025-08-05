@@ -1,0 +1,16 @@
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\bin\Debug\net8.0\GiftWizard.Application.deps.json
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\bin\Debug\net8.0\GiftWizard.Application.dll
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\bin\Debug\net8.0\GiftWizard.Application.pdb
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\bin\Debug\net8.0\GiftWizard.Domain.dll
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\bin\Debug\net8.0\GiftWizard.Domain.pdb
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\GiftWizard.Application.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\GiftWizard.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\GiftWizard.Application.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\GiftWizard.Application.AssemblyInfo.cs
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\GiftWizard.Application.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\GiftWizard.Application.sourcelink.json
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\GiftWiza.D28AC8E1.Up2Date
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\GiftWizard.Application.dll
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\refint\GiftWizard.Application.dll
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\GiftWizard.Application.pdb
+C:\Users\deniz\Desktop\hediye\GiftWizard\GiftWizard.Application\obj\Debug\net8.0\ref\GiftWizard.Application.dll
