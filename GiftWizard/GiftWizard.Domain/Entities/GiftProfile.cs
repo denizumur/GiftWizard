@@ -1,22 +1,15 @@
-﻿// GiftWizard.Domain/Entities/GiftProfile.cs
-namespace GiftWizard.Domain.Entities;
+﻿namespace GiftWizard.Domain.Entities;
 
-// Cinsiyet için daha yapısal bir tanım
-public enum Gender
-{
-    Unspecified, // Belirtilmemiş
-    Female,      // Kadın
-    Male         // Erkek
-}
+public enum Gender { Unspecified, Female, Male }
 
 public class GiftProfile
 {
     public Guid Id { get; set; }
-    public string AgeRange { get; set; }
-    public Gender Gender { get; set; } // Cinsiyet eklendi
-    public List<string> Interests { get; set; }
+    public string AgeRange { get; set; } = string.Empty; // Başlangıç değeri eklendi
+    public Gender Gender { get; set; }
+    public List<string> Interests { get; set; } = new(); // Başlangıç değeri eklendi
     public string? Style { get; set; }
-    public string Occasion { get; set; }
-    public string Relationship { get; set; } // İlişki türü eklendi
-    public string PriceRange { get; set; } // Fiyat aralığı eklendi
+    public string Occasion { get; set; } = string.Empty; // Başlangıç değeri eklendi
+    public string Relationship { get; set; } = string.Empty; // Başlangıç değeri eklendi
+    public string PriceRange { get; set; } = string.Empty; // Başlangıç değeri eklendi
 }
