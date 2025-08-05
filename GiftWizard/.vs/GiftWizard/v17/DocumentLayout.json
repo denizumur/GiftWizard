@@ -3,67 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.webapi\\giftwizard.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|solutionrelative:giftwizard.webapi\\giftwizard.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48237E74-1CFD-45BC-869C-89495F4D8E71}|GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.infrastructure\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48237E74-1CFD-45BC-869C-89495F4D8E71}|GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj|solutionrelative:giftwizard.infrastructure\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\GiftWizard.WebApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.WebApi\\GiftWizard.WebApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.webapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|solutionrelative:giftwizard.webapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Infrastructure\\Services\\GeminiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Infrastructure\\Services\\GeminiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.application\\features\\giftfinder\\services\\giftfinderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|solutionrelative:giftwizard.application\\features\\giftfinder\\services\\giftfinderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.WebApi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.application\\features\\giftfinder\\dtos\\giftprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|solutionrelative:giftwizard.application\\features\\giftfinder\\dtos\\giftprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Application\\Features\\GiftFinder\\Services\\GiftFinderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Application\\Features\\GiftFinder\\Services\\GiftFinderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD4DAFC-1698-472A-B13C-99635E2F4809}|GiftWizard.Domain\\GiftWizard.Domain.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.domain\\entities\\giftprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD4DAFC-1698-472A-B13C-99635E2F4809}|GiftWizard.Domain\\GiftWizard.Domain.csproj|solutionrelative:giftwizard.domain\\entities\\giftprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Application\\Features\\GiftFinder\\Dtos\\GiftProfileDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Application\\Features\\GiftFinder\\Dtos\\GiftProfileDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|solutionrelative:giftwizard.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Domain\\Entities\\GiftProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Domain\\Entities\\GiftProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48237E74-1CFD-45BC-869C-89495F4D8E71}|GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.infrastructure\\giftwizard.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{48237E74-1CFD-45BC-869C-89495F4D8E71}|GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj|solutionrelative:giftwizard.infrastructure\\giftwizard.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.WebApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.application\\abstractions\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|solutionrelative:giftwizard.application\\abstractions\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.application\\giftwizard.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|solutionrelative:giftwizard.application\\giftwizard.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Application\\Abstractions\\IAiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Application\\Abstractions\\IAiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.webapi\\controllers\\healthcheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|solutionrelative:giftwizard.webapi\\controllers\\healthcheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Application\\GiftWizard.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Application\\GiftWizard.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.webapi\\controllers\\giftfindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13B33BD1-A489-4D06-8F87-FDAD19C5A659}|GiftWizard.WebApi\\GiftWizard.WebApi.csproj|solutionrelative:giftwizard.webapi\\controllers\\giftfindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\Controllers\\HealthCheckController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.WebApi\\Controllers\\HealthCheckController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.application\\features\\giftfinder\\igiftfinderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|solutionrelative:giftwizard.application\\features\\giftfinder\\igiftfinderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.WebApi\\Controllers\\GiftFinderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.WebApi\\Controllers\\GiftFinderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.application\\features\\giftfinder\\dtos\\giftsuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4307A6D7-DC13-4BD5-B87B-56F863E86395}|GiftWizard.Application\\GiftWizard.Application.csproj|solutionrelative:giftwizard.application\\features\\giftfinder\\dtos\\giftsuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Application\\Features\\GiftFinder\\IGiftFinderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Application\\Features\\GiftFinder\\IGiftFinderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD4DAFC-1698-472A-B13C-99635E2F4809}|GiftWizard.Domain\\GiftWizard.Domain.csproj|c:\\users\\deniz\\desktop\\hediye\\giftwizard\\giftwizard.domain\\giftwizard.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8AD4DAFC-1698-472A-B13C-99635E2F4809}|GiftWizard.Domain\\GiftWizard.Domain.csproj|solutionrelative:giftwizard.domain\\giftwizard.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Application\\Features\\GiftFinder\\Dtos\\GiftSuggestionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Application\\Features\\GiftFinder\\Dtos\\GiftSuggestionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Domain\\GiftWizard.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiftWizard.Domain\\GiftWizard.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,11 +73,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GeminiService.cs",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\hediye\\GiftWizard\\GiftWizard.Infrastructure\\Services\\GeminiService.cs",
               "RelativeDocumentMoniker": "GiftWizard.Infrastructure\\Services\\GeminiService.cs",
@@ -102,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -182,8 +186,7 @@
               "RelativeToolTip": "GiftWizard.Infrastructure\\GiftWizard.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T16:28:52.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T16:28:52.095Z"
             },
             {
               "$type": "Document",
@@ -207,8 +210,7 @@
               "RelativeToolTip": "GiftWizard.Application\\GiftWizard.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T12:07:41.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:07:41.492Z"
             },
             {
               "$type": "Document",
@@ -268,12 +270,7 @@
               "RelativeToolTip": "GiftWizard.Domain\\GiftWizard.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T12:06:47.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-08-05T12:06:47.338Z"
             }
           ]
         }
