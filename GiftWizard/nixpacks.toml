@@ -1,4 +1,19 @@
-# nixpacks.toml
+[variables]
+NUGET_FALLBACK_PACKAGES = ""
+NUGET_PACKAGES = ".nuget/packages"
+DOTNET_SKIP_FIRST_TIME_EXPERIENCE = "true"
+DOTNET_CLI_TELEMETRY_OPTOUT = "true"
 
 [phases.setup]
-nixPkgs = ["dotnet-sdk_8"]
+cmds = [
+    "dotnet nuget locals all --clear"
+]
+
+[phases.build]
+cmds = [
+    "dotnet restore --configfile NuGet.config --verbosity normal",
+    "dotnet publish GiftWizard.WebApi/GiftWizard.WebApi.csproj --no-restore --configuration Release --output ./publish --verbosity normal"
+]
+
+[start]
+cmd = "dotnet ./publish/GiftWizard.WebApi.dll"

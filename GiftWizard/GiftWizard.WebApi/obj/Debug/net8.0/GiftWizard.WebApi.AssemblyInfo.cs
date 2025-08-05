@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GiftWizard.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6324db33d5a11e72133bd198ed3f2ebad047c7ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f74a0eff6e1db20f43646946dc3740b435423e5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GiftWizard.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GiftWizard.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

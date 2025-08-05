@@ -22,3 +22,10 @@ secrets.json
 
 # others
 *.DS_Store
+# NuGet packages
+.nuget/
+packages/
+publish/
+
+# Railway
+.railway/
