@@ -6,7 +6,7 @@ DOTNET_CLI_TELEMETRY_OPTOUT = "true"
 
 [phases.setup]
 cmds = [
-    "dotnet nuget locals all --clear"
+   
 ]
 
 [phases.build]
